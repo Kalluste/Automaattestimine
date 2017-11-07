@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Automaattestimine.iml" filepath="$PROJECT_DIR$/Automaattestimine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autoTesting.iml" filepath="$PROJECT_DIR$/.idea/modules/autoTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autoTesting_main.iml" filepath="$PROJECT_DIR$/.idea/modules/autoTesting_main.iml" group="autoTesting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autoTesting_test.iml" filepath="$PROJECT_DIR$/.idea/modules/autoTesting_test.iml" group="autoTesting" />
     </modules>
   </component>
 </project>
