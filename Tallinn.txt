@@ -1,0 +1,52 @@
+Tallinn 59:25
+Esimene päev: 
+
+Max temp: 273.647
+Min temp: 270.86
+Current temp: 270.86
+
+
+Max temp: 272.479
+Min temp: 270.39
+Current temp: 270.39
+
+
+Max temp: 271.252
+Min temp: 269.86
+Current temp: 269.86
+
+
+Teine päev: 
+
+Max temp: 273.313
+Min temp: 273.313
+Current temp: 273.313
+
+
+Max temp: 273.597
+Min temp: 273.597
+Current temp: 273.597
+
+
+Max temp: 274.676
+Min temp: 274.676
+Current temp: 274.676
+
+
+Kolmas päev: 
+
+Max temp: 280.328
+Min temp: 280.328
+Current temp: 280.328
+
+
+Max temp: 280.264
+Min temp: 280.264
+Current temp: 280.264
+
+
+Max temp: 279.768
+Min temp: 279.768
+Current temp: 279.768
+
+

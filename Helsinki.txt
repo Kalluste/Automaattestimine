@@ -1,0 +1,52 @@
+Helsinki 60:25
+Esimene päev: 
+
+Max temp: 275.947
+Min temp: 273.86
+Current temp: 273.86
+
+
+Max temp: 275.804
+Min temp: 274.24
+Current temp: 274.24
+
+
+Max temp: 275.702
+Min temp: 274.66
+Current temp: 274.66
+
+
+Teine päev: 
+
+Max temp: 275.388
+Min temp: 275.388
+Current temp: 275.388
+
+
+Max temp: 275.847
+Min temp: 275.847
+Current temp: 275.847
+
+
+Max temp: 276.401
+Min temp: 276.401
+Current temp: 276.401
+
+
+Kolmas päev: 
+
+Max temp: 280.578
+Min temp: 280.578
+Current temp: 280.578
+
+
+Max temp: 280.339
+Min temp: 280.339
+Current temp: 280.339
+
+
+Max temp: 280.193
+Min temp: 280.193
+Current temp: 280.193
+
+

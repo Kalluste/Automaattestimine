@@ -86,5 +86,4 @@ public class ApiTest {
         assertTrue(dailyForecast.getForecasts().get(0).getTemperatures().getTemp_max() >=
                 dailyForecast.getForecasts().get(0).getTemperatures().getTemp());
     }
-
 }
